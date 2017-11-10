@@ -1,0 +1,30 @@
+c:\users\genn\documents\visual studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.exe.config
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.csprojResolveAssemblyReference.cache
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.Properties.Resources.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.csproj.GenerateResource.Cache
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.exe
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaVista.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaControlador.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaModelo.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaVista.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaControlador.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaModelo.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\es-MX\CapaVista.resources.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.exe
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.exe.config
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.exe
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.exe
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\SistemaTerminalPuntoVentas.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaVista.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaControlador.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaModelo.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaVista.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaControlador.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\CapaModelo.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\bin\Debug\es-MX\CapaVista.resources.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.csprojResolveAssemblyReference.cache
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.Properties.Resources.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\SistemaTerminalPuntoVentas\obj\Debug\SistemaTerminalPuntoVentas.csproj.GenerateResource.Cache

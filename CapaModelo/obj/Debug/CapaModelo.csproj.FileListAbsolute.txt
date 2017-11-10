@@ -1,0 +1,10 @@
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.csprojResolveAssemblyReference.cache
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.csprojResolveAssemblyReference.cache
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaModelo\obj\Debug\CapaModelo.pdb

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BC906496-58F5-46FD-A896-5DC231380A21}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaVista</RootNamespace>
+    <AssemblyName>CapaVista</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion\Configuracion_BD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\Configuracion_BD.Designer.cs">
+      <DependentUpon>Configuracion_BD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administracion\TPV_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion\TPV_Admin.designer.cs">
+      <DependentUpon>TPV_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Testing.Designer.cs">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TPVDataSetVentas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TPVDataSetVentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TPVDataSetProductos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TPVDataSetProductos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TPVDataSetUsuarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TPVDataSetUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ayuda.designer.cs">
+      <DependentUpon>TPV_Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\TPV_Cobro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\TPV_Cobro.designer.cs">
+      <DependentUpon>TPV_Cobro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ingreso.designer.cs">
+      <DependentUpon>TPV_Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\TPV_Recibo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\TPV_Recibo.designer.cs">
+      <DependentUpon>TPV_Recibo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\TPV_Ventas.designer.cs">
+      <DependentUpon>TPV_Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaControlador\CapaControlador.csproj">
+      <Project>{8074d956-a3a3-450d-841f-5010019ab75e}</Project>
+      <Name>CapaControlador</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administracion\Configuracion_BD.resx">
+      <DependentUpon>Configuracion_BD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administracion\TPV_Admin.resx">
+      <DependentUpon>TPV_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Testing.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Ayuda.resx">
+      <DependentUpon>TPV_Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Cobro.resx">
+      <DependentUpon>TPV_Cobro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Ingreso.resx">
+      <DependentUpon>TPV_Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Recibo.resx">
+      <DependentUpon>TPV_Recibo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Ventas.es-MX.resx">
+      <DependentUpon>TPV_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\TPV_Ventas.resx">
+      <DependentUpon>TPV_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TPVDataSetVentas.xsc">
+      <DependentUpon>TPVDataSetVentas.xsd</DependentUpon>
+    </None>
+    <None Include="TPVDataSetVentas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TPVDataSetVentas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TPVDataSetVentas.xss">
+      <DependentUpon>TPVDataSetVentas.xsd</DependentUpon>
+    </None>
+    <None Include="TPVDataSetProductos.xsc">
+      <DependentUpon>TPVDataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="TPVDataSetProductos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TPVDataSetProductos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TPVDataSetProductos.xss">
+      <DependentUpon>TPVDataSetProductos.xsd</DependentUpon>
+    </None>
+    <None Include="TPVDataSetUsuarios.xsc">
+      <DependentUpon>TPVDataSetUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="TPVDataSetUsuarios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TPVDataSetUsuarios.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TPVDataSetUsuarios.xss">
+      <DependentUpon>TPVDataSetUsuarios.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

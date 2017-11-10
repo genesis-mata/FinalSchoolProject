@@ -1,0 +1,44 @@
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.Cache
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ayuda.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ventas.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ventas.es-MX.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Cobro.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ingreso.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Administracion.TPV_Admin.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Testing.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Recibo.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\es-MX\CapaVista.resources.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\es-MX\CapaVista.resources.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Administracion.Configuracion_BD.resources
+C:\Users\Genn\Documents\Visual Studio 2013\Projects\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.dll.config
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.dll.config
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaVista.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\es-MX\CapaVista.resources.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaControlador.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaModelo.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Administracion.Configuracion_BD.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Administracion.TPV_Admin.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Testing.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ayuda.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Cobro.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ingreso.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Recibo.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ventas.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.Ventas.TPV_Ventas.es-MX.resources
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.Cache
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\es-MX\CapaVista.resources.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.dll
+D:\Escuela\UnAD\Materias\Semestral\9no\Proyecto terminal II\Proyecto\Código Fuente\Código C#\SistemaTerminalPuntoVentas\CapaVista\obj\Debug\CapaVista.pdb
